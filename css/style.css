@@ -1,3 +1,9 @@
 .Register-color {
     background-color: #289BDE;
 }
+
+.logo {
+    height: 20px;
+    width: 50;
+    margin-right: 20px;
+}
